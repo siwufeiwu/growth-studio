@@ -1,4 +1,4 @@
-node (hzbxs-yipin-qatest7-bjzhangjiwei) {
+node ('hzbxs-yipin-qatest7-bjzhangjiwei') {
 
   stage ('Checkout') {
     git 'https://github.com/siwufeiwu/growth-studio.git'
