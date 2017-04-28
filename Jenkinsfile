@@ -1,7 +1,7 @@
 node (hzbxs-yipin-qatest7-bjzhangjiwei) {
 
   stage ('Checkout') {
-    git 'https://github.com/phodal/growth-studio'
+    git 'https://github.com/siwufeiwu/growth-studio.git'
   }
 
   stage ('Create Virtualenv') {
